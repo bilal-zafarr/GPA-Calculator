@@ -1,4 +1,4 @@
-# GPA_Calculator
+# GPA Calculator
 A simple GPA calculator written in C#
 
 ## Features
