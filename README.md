@@ -1,5 +1,5 @@
 # GPA_Calculator
-A very simple GPA calculator written in C#
+A simple GPA calculator written in C#
 
 ## Features
 * Asks the user the total number of subjects of which he want to calculate GPA
